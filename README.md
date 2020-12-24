@@ -1,2 +1,2 @@
-# batch-automation
-:eyes: # Short batch scripts for running recurrent daily tasks
+# Batch automation
+Short batch scripts for running recurrent daily tasks

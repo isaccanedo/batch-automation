@@ -1,2 +1,2 @@
 # Batch automation
-Short batch scripts for running recurrent daily tasks. ttus
+Short batch scripts for running recurrent daily tasks.
